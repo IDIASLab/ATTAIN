@@ -2,7 +2,7 @@
 ## Introduction
 We present ATTAIN, an Accurate and Timely Traffic AccIdent detectioN from speed data on freeways equipped with spatially distributed speed sensors. ATTAIN is based on a novel Bayesian quickest change detection formulation for near real-time freeway accident detection, which considers both average detection delay and false alarm rate.
 
-## Citation
+## Description
 The source code of the ATTAIN algorithm has been made available for review purposes as part of the following article: Liyanage, Yasitha Warahena, Zois, Daphney-Stavroula, and Chelmis, Charalampos. Near Real-Time Freeway Accident Detection. Transactions on Intelligent Transportation Systems, 2020.
 
 ### Dataset
