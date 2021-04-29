@@ -9,13 +9,15 @@ To cite our paper, please use the following reference:
 
 BibTeX:
 ``` 
-@article{liyanage2020near, 
-  title={Near Real-Time Freeway Accident Detection},
-  author={Liyanage, Yasitha Warahena and Zois, Daphney-Stavroula and Chelmis, Charalampos},
-  journal={IEEE Transactions on Intelligent Transportation Systems},
+@article{liyanage2020near,
+ author={Liyanage, Yasitha Warahena and Zois, Daphney-Stavroula and Chelmis, Charalampos},
+  journal={IEEE Transactions on Intelligent Transportation Systems}, 
+  title={Near Real-Time Freeway Accident Detection}, 
   year={2020},
-  publisher={IEEE}
- }
+  volume={},
+  number={},
+  pages={1-12},
+  doi={10.1109/TITS.2020.3027494}}
 ```
 
 ### Dataset
